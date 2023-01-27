@@ -16,3 +16,7 @@ MinecraftBedrockEdition(統合版)の翻訳が狂っている箇所をJava版の
 ![画像](https://user-images.githubusercontent.com/86110351/215106542-a850124e-ac3c-40aa-ae64-016f2c87842c.png)
 
 5.セットアップ完了です。
+
+#注意
+
+翻訳を修正している部分は1.19.50までの部分です。次のメジャーアップデートなどをonにして追加された部分の翻訳は修正されません。
