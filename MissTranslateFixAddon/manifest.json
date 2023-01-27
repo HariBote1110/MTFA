@@ -1,0 +1,18 @@
+{
+    "format_version": 2,
+    "header": {
+        "description": "MTFA",
+        "name": "狂った翻訳をJavaに揃えます\nMade by HariBote1110",
+        "uuid": "2c3e476f-f565-44e9-93f4-54ea2c8276c2",
+        "version": [0, 0, 1],
+        "min_engine_version": [ 1, 17, 10 ]
+    },
+    "modules": [
+        {
+            "description": "Example vanilla resource pack",
+            "type": "resources",
+            "uuid": "6e745557-99b9-4a76-9ea5-c491f050d964",
+            "version": [0, 0, 1]
+        }
+    ]
+}
