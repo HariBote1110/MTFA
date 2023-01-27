@@ -80,10 +80,10 @@ accessibility.index= %s/%s		### This is numbering, which number out of the total
 
 accessibility.slider.tts.percentValue=%s%	#
 
-accessibility.play.editWorld=世界を編集	#
+accessibility.play.editWorld=ワールドを編集	#
 accessibility.play.editRealm=Realm を編集	#
 accessibility.play.editServer=サーバーを編集	#
-accessibility.play.importWorld=世界をインポート	#
+accessibility.play.importWorld=ワールドをインポート	#
 accessibility.play.leaveRealm=Realm を退出	#
 accessibility.play.realmFeed=Realm のフィード	#
 accessibility.play.tabLeft=%s を押して左にタブ移動	#
