@@ -2,6 +2,8 @@
 
 MinecraftBedrockEdition(統合版)の翻訳が狂っている箇所をJava版の翻訳に変更するアドオンです。
 
+おまけ機能としてWindows向けの見ずらい~~クソ~~フォントを昔のカクカクフォントに戻す機能もあります。
+
 # 使い方
 
 [ダウンロードはここから](https://github.com/HariBote1110/MTFA/releases)
